@@ -1,0 +1,2 @@
+# Credit-Card-crisis-in-Taiwan
+According to a Bloomberg report, more than 60 million of Americans used Credit cards to meet spending needs within the previous week. Almost 47% of the adults has credit card debts. Furthermore, the COVID-19 pandemic has resulted in many job losses and people strapping for money. This will increase the number of credit card defaults around the world. In this paper, we analyse the “credit card crisis” that happened in Taiwan, back in 2005.
